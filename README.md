@@ -1,6 +1,26 @@
-# Getting Started with Create React App
+# My Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+A responsive portfolio website built using React to showcase my projects and skills.
+
+## Features
+- About Me, Projects, Skills, Resume, Contact sections
+- Lazy-loaded components and images for fast loading
+- Fully responsive design
+- Optimized for production
+
+## Deployment
+Deployed using Netlify: [https://my-portfolio.netlify.app](https://my-portfolio.netlify.app)
+
+## Challenges
+- Implementing lazy loading for images in Projects section
+- Ensuring consistent styling across all devices
+
+## Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c652f727-a07e-45b6-914b-5f7e91c1928e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7a12aa3-2012-41fa-bd56-eac522ae5739" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06d24e47-c5a4-4253-9486-f44efb2e1a4c" />
+
 
 ## Available Scripts
 
