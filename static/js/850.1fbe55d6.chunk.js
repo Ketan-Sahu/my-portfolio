@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_router_dom=self.webpackChunkreact_router_dom||[]).push([[850],{850:(e,r,n)=>{n.r(r),n.d(r,{default:()=>t});var s=n(579);function t(){return(0,s.jsxs)("section",{children:[(0,s.jsx)("h2",{children:"Resume"}),(0,s.jsx)("br",{}),(0,s.jsx)("a",{href:"./Resume_Ketan_Sahu.pdf",target:"_blank",rel:"noopener noreferrer",children:"\ud83d\udcc4 View My Resume"})]})}}}]);
+//# sourceMappingURL=850.1fbe55d6.chunk.js.map
