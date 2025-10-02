@@ -12,7 +12,7 @@ export default function Home() {
     <div className="container mx-auto px-4 py-8">
       <section id="hero" className="py-12 text-center">
         <img src={selfImg} id="selfimg" alt="self" className="w-48 mx-auto rounded-full" />
-        <h1 className="text-4xl font-bold mt-4">Hi, I'm Ketan Sahu</h1>
+        <h1 className="text-4xl font-bold mt-4"style={{ color: "black" }}>Hi, I'm Ketan Sahu</h1>
         <p className="mt-4 text-lg max-w-2xl mx-auto">
           I'm a Full Stack Java Developer with a strong foundation in Java, Spring Boot, and modern front-end technologies like React and Angular. I enjoy building scalable web applications, writing clean code, and solving real-world problems through end-to-end development. Always eager to learn, I stay updated with the latest tech trends and best practices.
         </p>

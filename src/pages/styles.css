@@ -41,6 +41,10 @@ body {
   line-height: 1.6;
 }
 
+/* h1 .name{
+  color: #ff0000;
+} */
+
 /* Container for main content */
 .container {
   width: 90%;
