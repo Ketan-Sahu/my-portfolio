@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-=======
-# My Portfolio Website
+My Portfolio Website
 
 ## Overview
 A responsive portfolio website built using React to showcase my projects and skills.
@@ -12,16 +10,16 @@ A responsive portfolio website built using React to showcase my projects and ski
 - Optimized for production
 
 ## Deployment
-Deployed using Netlify: [https://my-portfolio.netlify.app](https://my-portfolio.netlify.app)
+Deployed using Netlify: https://ketan-sahu.github.io/my-portfolio/
 
 ## Challenges
 - Implementing lazy loading for images in Projects section
 - Ensuring consistent styling across all devices
 
 ## Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c652f727-a07e-45b6-914b-5f7e91c1928e" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7a12aa3-2012-41fa-bd56-eac522ae5739" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06d24e47-c5a4-4253-9486-f44efb2e1a4c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08467c99-c4da-4569-9668-94ceb070a3d2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b9fe0f2-96d7-47f2-a34e-6d157adab451" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/58ea1c2a-e070-437a-a279-dc5c3636925e" />
 
 
 ## Available Scripts
