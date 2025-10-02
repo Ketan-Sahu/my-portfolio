@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_router_dom=self.webpackChunkreact_router_dom||[]).push([[284],{284:(e,n,t)=>{t.r(n),t.d(n,{default:()=>a});t(43);var i=t(579);function a(){return(0,i.jsxs)("section",{id:"about",children:[(0,i.jsx)("h2",{children:"About"}),(0,i.jsx)("p",{children:"I'm a passionate Fullstack Developer skilled in Java, Spring Boot, and frontend magic. I believe in writing clean, efficient code and constantly evolving with technology. \u2728"})]})}}}]);
-//# sourceMappingURL=284.e80e1815.chunk.js.map

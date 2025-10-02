@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_portfolio=self.webpackChunkmy_portfolio||[]).push([[284],{284:(e,n,i)=>{i.r(n),i.d(n,{default:()=>t});i(43);var o=i(579);function t(){return(0,o.jsxs)("section",{id:"about",children:[(0,o.jsx)("h2",{children:"About"}),(0,o.jsx)("p",{children:"I'm a passionate Fullstack Developer skilled in Java, Spring Boot, and frontend magic. I believe in writing clean, efficient code and constantly evolving with technology. \u2728"})]})}}}]);
+//# sourceMappingURL=284.4bb94ca2.chunk.js.map
