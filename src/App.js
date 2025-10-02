@@ -2,7 +2,6 @@ import React, { Suspense, lazy } from 'react'
 import { Routes, Route } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
-import About from './components/About'
 
 
 const Home = lazy(() => import('./pages/Home'))
