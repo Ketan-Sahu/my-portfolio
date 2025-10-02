@@ -10,7 +10,7 @@ A responsive portfolio website built using React to showcase my projects and ski
 - Optimized for production
 
 ## Deployment
-Deployed using Netlify: https://ketan-sahu.github.io/my-portfolio/
+Deployed using GitHub Pages: https://ketan-sahu.github.io/my-portfolio/
 
 ## Challenges
 - Implementing lazy loading for images in Projects section
